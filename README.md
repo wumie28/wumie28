@@ -1,3 +1,9 @@
+# My Developer Profile
+
+Name: Your Name
+Learning: Git & GitHub
+Goal: Become a Professional Developer 
+
 ## Hi there 👋
 
 <!--
